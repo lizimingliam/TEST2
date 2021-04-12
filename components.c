@@ -12,7 +12,7 @@
  * 2013-07-05     Bernard      Remove initialization feature for MS VC++ compiler
  * 2015-02-06     Bernard      Remove the MS VC++ support and move to the kernel
  * 2015-05-04     Bernard      Rename it to components.c because compiling issue
- *   ***********                          in some IDEs.
+ *   ***********  ###                        in some IDEs.
  * 2015-07-29     Arda.Fu      Add support to use RT_USING_USER_MAIN with IAR
  * 2018-11-22     Jesven       Add secondary cpu boot up
  */
